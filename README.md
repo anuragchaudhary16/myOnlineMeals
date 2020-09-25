@@ -9,5 +9,6 @@ Desktop View
 
 Mobile View
 
-![3](https://user-images.githubusercontent.com/64066950/94229686-de7ba100-ff1d-11ea-8232-59aa4e37b93a.jpeg)
+![3](https://user-images.githubusercontent.com/64066950/94235872-e5101580-ff29-11ea-8ce5-d63fc0ed2576.jpg)
+
 
